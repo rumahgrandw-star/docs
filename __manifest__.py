@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+##
 {
     'name': 'Template Report DOCX',
     'description': 'Is Easy an elegant and scalable solution to design reports'
